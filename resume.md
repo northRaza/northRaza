@@ -8,7 +8,7 @@ EDUCATION
 Northeastern University, Boston, MA
 February 2024
 Khoury College of Computer and Information Science
-Candidate for Bachelor of Science in Computer Science
+Candidate for Bachelor of Science in Computer Science, Graduating 2027
 Relevant Courses: Fundamentals of Computer Science, Discrete Structures, Probability and Stats, Math Reasoning
  
 GPA: 3.67
